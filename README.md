@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **moghadamamin2002@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/moghadamamin2002/Resume/blob/main/AminMoghadam%20Resume.pdf](https://github.com/moghadamamin2002/Resume/blob/main/AminMoghadam%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/moghadamamin2002/Resume/blob/main/AminMoghadm%20Resume.pdf)
 
 - ⚡ Fun fact **I am very energetic⚡**
 

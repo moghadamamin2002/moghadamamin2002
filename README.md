@@ -16,7 +16,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on **Contact-manage-App**
+- 🔭 I’m currently working on **Blog Management Project**
 
 - 🌱 I’m currently learning **React js**
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **moghadamamin2002@gmail.com**
 
-- 📄 Know about my experiences [CV](https://github.com/moghadamamin2002/CV/blob/main/CV.pdf)
+- 📄 Know about my experiences [CV](https://github.com/moghadamamin2002/CV/blob/main/CV.pdf.pdf)
 
 - ⚡ Fun fact **I am very energetic⚡**
 
